@@ -57,5 +57,5 @@ yarn install
 ```
 
 ```
-bower install
+yarn watch
 ```
